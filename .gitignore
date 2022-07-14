@@ -192,3 +192,4 @@ cython_debug/
 # End of https://www.toptal.com/developers/gitignore/api/python,git,jupyternotebooks
 
 model2.pt
+_model
