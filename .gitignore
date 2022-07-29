@@ -193,3 +193,4 @@ cython_debug/
 
 model2.pt
 _model
+data_classification_model
