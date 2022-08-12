@@ -194,6 +194,6 @@ cython_debug/
 model2.pt
 _model
 data_classification_model
-모델 테스트용 데이터.xlsx
-모든데이터라벨링끝.csv
-최종학습데이터(약 13000개).csv
+라벨검수한_데이터(약 13000개).csv
+수집데이터.csv
+상품상태 이미지.zip
