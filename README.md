@@ -41,3 +41,35 @@
 <br>
 <br>
 
+---
+### 결과
+<br>
+<br>
+카카오톡 친구추가 '사파고' 채널로 추가 가능.
+
+서버가 열려있지 않으면 동작하지 않음.
+
+<br>
+
+![도움말](https://github.com/Cheolyong-Kim/Sapago/blob/master/%EC%8B%9C%EC%97%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EB%8F%84%EC%9B%80%EB%A7%90.jpg?raw=true)  
+<br>
+
+![시연1](https://github.com/Cheolyong-Kim/Sapago/blob/master/%EC%8B%9C%EC%97%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%8B%9C%EC%97%B0%201.jpg?raw=true)
+<br>
+
+![시연2](https://github.com/Cheolyong-Kim/Sapago/blob/master/%EC%8B%9C%EC%97%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%8B%9C%EC%97%B0%202.jpg?raw=true)
+<br>
+
+![시연3](https://github.com/Cheolyong-Kim/Sapago/blob/master/%EC%8B%9C%EC%97%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%8B%9C%EC%97%B0%203.jpg?raw=true)
+<br>
+
+![시연4](https://github.com/Cheolyong-Kim/Sapago/blob/master/%EC%8B%9C%EC%97%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%8B%9C%EC%97%B0%204.jpg?raw=true)
+<br>
+
+![시연5](https://github.com/Cheolyong-Kim/Sapago/blob/master/%EC%8B%9C%EC%97%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%8B%9C%EC%97%B0%205.jpg?raw=true)
+<br>
+
+![시연6](https://github.com/Cheolyong-Kim/Sapago/blob/master/%EC%8B%9C%EC%97%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%8B%9C%EC%97%B0%206.jpg?raw=true)
+<br>
+
+![시연7](https://github.com/Cheolyong-Kim/Sapago/blob/master/%EC%8B%9C%EC%97%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%8B%9C%EC%97%B0%207.jpg?raw=true)
