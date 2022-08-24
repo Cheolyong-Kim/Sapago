@@ -73,3 +73,15 @@
 <br>
 
 ![시연7](https://github.com/Cheolyong-Kim/Sapago/blob/master/%EC%8B%9C%EC%97%B0%20%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%8B%9C%EC%97%B0%207.jpg?raw=true)
+
+---
+
+### 참고 자료
+<br>
+<br>
+
+[버트 파인 튜닝 코드](https://velog.io/@jaehyeong/Fine-tuning-Bert-using-Transformers-and-TensorFlow)  
+[한국어 사전훈련 모델 소개](https://littlefoxdiary.tistory.com/81)  
+[LMKor](https://github.com/kiyoungkim1/LMkor)  
+[KorEDA](https://github.com/catSirup/KorEDA)  
+[EDA 논문 번역](https://catsirup.github.io/ai/2020/04/21/nlp_data_argumentation.html)
